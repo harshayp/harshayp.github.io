@@ -25,7 +25,7 @@ const Header = () => {
             viewport={{ once: false, amount: 0.7 }}
             className="text-[3.5rem] sm:text-[4.7rem] font-[700]"
           >
-            I am Harshavardhan Patankar. Welcome to my site.
+            Harshavardhan Patankar
           </motion.h1>
         </div>
         <motion.div
